@@ -1,1 +1,2 @@
 welcome you all to today's class
+we are here to learn git and github
